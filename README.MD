@@ -13,7 +13,7 @@ Este es un proyecto de análisis de datos de ventas que utiliza Python y Pandas 
 
 * Carga y limpieza de datos de ventas y empleados.
 * Ingeniería de características (feature engineering) para calcular la edad de los empleados al momento de la contratación y la experiencia en el punto de venta.
-* (Añade aquí otras características, por ejemplo: visualizaciones, modelos de pronóstico, etc.)
+*visualizaciones, modelos de pronóstico, etc.
 
 ## Instalación
 
